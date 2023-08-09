@@ -18,5 +18,8 @@ public class Ej1enc1 {
         System.out.println("Tipo de producto: " + produ1.getDescripcion());
         System.out.println("Su precio: " + produ1.getPrecio());
         System.out.println("En stock: " + produ1.getStock());
+
+        System.out.println("ESTO ES UNA PRUEBA");
+        
     }
 }
